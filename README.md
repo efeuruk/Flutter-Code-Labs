@@ -2,15 +2,6 @@
 
 A new Flutter project.
 
-## Getting Started
+## Building Beautiful UIs
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1553638988](https://user-images.githubusercontent.com/25866628/55039367-ef034080-5034-11e9-87fd-26ea384d4a16.png)
